@@ -1,5 +1,16 @@
-﻿# BEE ĐIỆN LẠNH
-Đồ án môn học Công Nghệ Phần Mềm
+﻿# NHÓM 5 - BEE ĐIỆN LẠNH
+Đồ án môn học Công nghệ đám mây
+
+## Đề tài
+BEE ĐIỆN LẠNH
+HỆ THỐNG QUẢN LÝ VÀ BÁN HÀNG ĐIỆN LẠNH TRỰC TUYẾN
+
+## Thành viên
+2200009965 - Lê Đỗ Quang Anh
+2200006071 – Phạm Hoàng Đăng Quang
+2100010687 – Nguyễn Trường Gia Bảo
+2200011039 – Phạm Thanh Hào
+
 ## Công nghệ sử dụng
 
 - ASP.NET Core MVC
@@ -65,6 +76,9 @@
 6. Build project.
 
 7. Run project.
+
+## Website
+https://beedienlanh-ejgqgdcca0cygjhm.eastasia-01.azurewebsites.net
 
 ## Tài khoản Admin
 
